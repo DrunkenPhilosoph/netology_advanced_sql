@@ -1,4 +1,6 @@
- INSERT INTO public.artists (artist_id, artist_name) VALUES(1, 'Linkin Park');
+-- Задание 1
+
+INSERT INTO public.artists (artist_id, artist_name) VALUES(1, 'Linkin Park');
 
  INSERT INTO public.artists (artist_id, artist_name) VALUES(2, 'Coldplay');
 
